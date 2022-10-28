@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "Wifi Smart Congfig Using Wifi Manager",
+			"path": "../../Wifi Smart Congfig Using Wifi Manager"
+		},
+		{
+			"name": "ESP send data to firebase",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
