@@ -8,7 +8,6 @@
 #include <WiFiManager.h>
 #include <EEPROM.h>
 
-
 // Provide the token generation process info.
 #include <addons/TokenHelper.h>
 
@@ -16,14 +15,14 @@
 #include <addons/RTDBHelper.h>
 
 /* 2. Define the API Key */
-#define API_KEY "AIzaSyBrJCZkqregTjsy4wPPlVlxF7n-Bs1Oppo"
+#define API_KEY "API KEY"
 
 /* 3. Define the RTDB URL */
-#define DATABASE_URL "https://fir-esp-data-demo-default-rtdb.asia-southeast1.firebasedatabase.app/" //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
+#define DATABASE_URL "DATABASE URL" //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
 
 /* 4. Define the user Email and password that alreadey registerd or added in your project */
-#define USER_EMAIL "nghiepquy6@gmail.com"
-#define USER_PASSWORD "QuyPhat123"
+#define USER_EMAIL "EMAIL"
+#define USER_PASSWORD "PASSWORD"
 
 #define EEPROM_SIZE 1
 
