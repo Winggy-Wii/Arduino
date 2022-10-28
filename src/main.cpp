@@ -20,10 +20,6 @@
 /* 3. Define the RTDB URL */
 #define DATABASE_URL "DATABASE URL" //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
 
-/* 4. Define the user Email and password that alreadey registerd or added in your project */
-#define USER_EMAIL "EMAIL"
-#define USER_PASSWORD "PASSWORD"
-
 #define EEPROM_SIZE 1
 
 // Define Firebase Data objects
